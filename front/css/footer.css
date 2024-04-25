@@ -1,0 +1,45 @@
+footer {
+  height: auto;
+  width: auto;
+  background: url("../image/bg.webp") no-repeat center/cover;
+  filter: brightness(40%);
+  padding: 0 1rem;
+}
+
+footer section {
+  display: flex;
+}
+
+footer article {
+  width: 40vh;
+}
+
+footer div {
+  margin: 1vh 0vh;
+}
+
+footer h1 {
+  font-size: 5vh;
+  padding: 3vh 0vh;
+  text-decoration-line: underline;
+  color: white;
+}
+
+footer h2 {
+  font-size: 3vh;
+  text-decoration-line: underline;
+  color: white;
+}
+
+footer abbr {
+  color: white;
+}
+
+footer h3 {
+  font-size: 2.5vh;
+  color: white;
+}
+
+footer p {
+  color: white;
+}

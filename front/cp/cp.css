@@ -1,0 +1,28 @@
+.cp main {
+  display: flex;
+  align-items: center;
+  background-color:  #afbc8f;
+}
+
+.cp main article {
+  margin: 2.5vh;
+  height: auto;
+  width: 275vh;
+  display: flex;
+  font-size: 2rem;
+}
+
+.cp main article div {
+  background-color: #f2dc72;
+  height: 100%;
+  width: 50%;
+}
+
+.cp main aside {
+  height: 120vh;
+  width: 100vh;
+}
+
+.cp aside {
+  background: url("../image/bg_main_aside.jpg") repeat center;
+}

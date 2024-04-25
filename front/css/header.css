@@ -1,0 +1,24 @@
+.header nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 2vh;
+}
+
+.header_logo {
+  height: 15rem;
+  width: auto;
+}
+
+.logo_jo {
+  background-color: white;
+  border-radius: 4rem;
+  position: relative;
+}
+
+.header h1 {
+  font-size: 7rem;
+  padding: 0 2rem;
+  background-color: white;
+  border-radius: 3rem;
+}

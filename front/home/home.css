@@ -1,0 +1,118 @@
+.home main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 3rem;
+}
+
+.home main section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  border-radius: 1rem;
+  width: 90rem;
+}
+
+.home main article {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.home main h3 {
+  width: 90%;
+  margin: 1.5rem;
+  font-size: 3rem;
+}
+
+.agence_title {
+  color: #acbe8a;
+}
+
+.anim_title {
+  color: green;
+}
+
+.jv_title {
+  color: darkblue;
+}
+
+.home main h4 {
+  width: 95%;
+  margin: 2rem;
+  color: white;
+  font-size: 2rem;
+}
+
+.agence .description {
+  color: white;
+  width: 45%;
+  font-size: 1.5rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.mosaique {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  width: 50%;
+}
+
+.agence {
+  background-color: #acbe8a;
+}
+
+.anim {
+  background-color: green;
+  height: 75rem;
+}
+
+.jv {
+  background-color: darkblue;
+  height: 75rem;
+}
+
+.agence .mosaique img {
+  margin: 0.5rem;
+  height: 35rem;
+}
+
+.anim article {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.jv article {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.description {
+  color: white;
+  height: 90%;
+  width: 90%;
+  font-size: 1.5rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.anim img {
+  width: 95%;
+  margin: 2rem 2rem 0 2rem;
+}
+
+.jv img {
+  width: 95%;
+  margin: 2rem 2rem 0 2rem;
+}
