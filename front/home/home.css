@@ -75,12 +75,16 @@
 
 .jv {
   background-color: darkblue;
-  height: 75rem;
+  height: 70rem;
 }
 
 .agence .mosaique img {
   margin: 0.5rem;
   height: 35rem;
+}
+
+.cdi_img {
+  padding-bottom: 1rem;
 }
 
 .anim article {

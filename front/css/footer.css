@@ -1,8 +1,7 @@
 footer {
   height: auto;
   width: auto;
-  background: url("../image/bg.webp") no-repeat center/cover;
-  filter: brightness(40%);
+  background: url("../image/bg_footer.webp") no-repeat center/cover;  
   padding: 0 1rem;
 }
 
