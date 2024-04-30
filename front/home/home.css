@@ -28,6 +28,10 @@
   font-size: 3rem;
 }
 
+.cp_title {
+  color: green;
+}
+
 .agence_title {
   color: #acbe8a;
 }
@@ -64,6 +68,21 @@
   width: 50%;
 }
 
+.cp {
+  background-color: green;
+}
+
+.cp article {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  margin: 2rem 0;
+}
+
+.cp .description {
+  width: 45%;
+}
+
 .agence {
   background-color: #acbe8a;
 }
@@ -77,6 +96,13 @@
   background-color: darkblue;
   height: 70rem;
 }
+
+.cp img {
+  height: 25rem;
+  margin: 2rem 0;
+}
+
+
 
 .agence .mosaique img {
   margin: 0.5rem;
