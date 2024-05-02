@@ -3,10 +3,13 @@ footer {
   width: auto;
   background: url("../image/bg_footer.webp") no-repeat center/cover;  
   padding: 0 1rem;
+  display: flex;
+  flex-direction: column;
 }
 
 footer section {
   display: flex;
+  font-family: "century-gothic", sans-serif;
 }
 
 footer article {
@@ -22,6 +25,11 @@ footer h1 {
   padding: 3vh 0vh;
   text-decoration-line: underline;
   color: white;
+  font-family: "the-seasons", sans-serif;
+}
+
+footer a {
+  width: 13rem;
 }
 
 footer h2 {

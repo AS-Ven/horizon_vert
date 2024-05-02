@@ -2,7 +2,6 @@
 @import url(footer.css);
 @import url(../home/home.css);
 @import url(../about_us/about_us.css);
-@import url(../cp/cp.css);
 
 * {
   margin: 0;

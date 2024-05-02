@@ -24,6 +24,7 @@
 }
 
 .bandeau h2 {
+  font-family: "the-seasons", sans-serif;
   font-size: 3rem;
   padding: 20rem;
   color: white;
@@ -35,6 +36,7 @@
 }
 
 .main_title h1 {
+  font-family: "the-seasons", sans-serif;
   color: white;
 }
 
